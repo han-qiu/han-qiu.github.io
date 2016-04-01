@@ -6,7 +6,7 @@ published: true
 ---
 
 
-A junior Student in Electronics Engineering and Computer Science Department,Peking University.
+A junior Student in Electronics Engineering and Computer Science Department,Peking University,Beijing,China.
 
 ### More Information
 
