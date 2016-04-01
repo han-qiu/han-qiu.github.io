@@ -10,7 +10,7 @@ A junior Student in Electronics Engineering and Computer Science Department,Peki
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Fascinated in Deep Learning, Computer Vision, and Natural Language Processing.
 
 ### Contact me
 
