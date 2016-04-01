@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ny first blog"
+title: "My first blog"
 published: true
 ---
 
