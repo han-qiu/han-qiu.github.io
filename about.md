@@ -2,9 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+
+A junior Student in Electronics Engineering and Computer Science Department,Peking University.
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[qiuhanpku@gmai.com](mailto:qiuhanpku@gmail.com)
