@@ -52,8 +52,10 @@ publish: true
 <a href="http://www.w3schools.com">This is a link</a>
 
 ### HTML Images
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+{% highlight html linenos %}
 
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+{% endhighlight %}
 ### Empty HTML Elements
 {% highlight html linenos %}
 <br>
