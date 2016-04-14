@@ -3,6 +3,28 @@ layout: post
 title: "STL"
 publish: true
 ---
+### Taxonomy of Containers
+
+- Sequence container
+  - vector,deque,list
+- Associative container
+  - set,multiset,map,multimap
+- Container adapter
+  - Stack,queue,priority_queue
+
+Sequence container and Associative container are called *first-class* Containers
+
+### Deque
+
+All the operations applicable to vector are applicable to deque
+
+In addition, deque has two other functions
+
+- push_front(): insert element at the beginning
+- pop_front():delete the first element
+
+### List
+(member function of list)[!{site.url}/images/list.png]
 
 c++ find function in STL:
 
@@ -96,3 +118,12 @@ Equivalent to
 
 You cann't use the STL sort for list;
 for it need a parameter of Random Access Iterator
+
+
+### map
+
+[]
+> A call to this function is equivalent to:
+> (*((this->insert(make_pair(k,mapped_type()))).first)).second
+
+there should be a compare function
