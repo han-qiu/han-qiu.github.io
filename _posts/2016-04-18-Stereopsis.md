@@ -68,3 +68,21 @@ F has 7 parameters up to scale and can be estimated from 7 point correspondence
 ### Stereo image rectification
 
 ### Stereo correspondence algorithm
+
+### Problem Statement
+
+Given: two images and their associated
+
+bottom up
+
+two types: 1. Dense 2. Sparse
+
+Foreshorten effects
+
+### Basic stereo matching algorithm
+
+if necessary, rectify the two stereo images to transform epipolar lines into scanlines
+
+### Feature-based methods
+
+edges, lines

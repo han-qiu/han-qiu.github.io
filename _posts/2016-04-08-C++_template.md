@@ -127,3 +127,33 @@ for it need a parameter of Random Access Iterator
 > (*((this->insert(make_pair(k,mapped_type()))).first)).second
 
 there should be a compare function
+
+
+### modify algorithm
+random_shuffle
+
+next_permutation
+
+
+### Some advanced topics
+- inline function
+- Type casting
+??Why it will cause run time error
+
+static_cast<new_type>(expression)
+
+Conversion between pointers to related classes
+
+But no safety check at run-time
+
+dynamic
+
+Run-Time Type Information
+
+
+const_
+reinterpret_
+
+Reinterpret_cast most relax version
+
+Const_cast
