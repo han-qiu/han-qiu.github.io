@@ -193,4 +193,29 @@ use luarocks
 
 From Yoshua Bengio group at University of Montreal
 
-High-level Keras,L
+High-level Keras,Lasagne
+
+### Computational Graphs
+
+### Theano: Shared variable
+
+### Other Topic
+
+### Lasagne: High-level wrapper
+
+
+### Theano: Pro/cons
+
+- Large models can have long compile time
+
+- Much fatter than
+
+### TensorFlow
+
+From Google
+
+Very similar to Theano-all about computation Graphs
+
+Professional engineers
+
+### TensorBoard
