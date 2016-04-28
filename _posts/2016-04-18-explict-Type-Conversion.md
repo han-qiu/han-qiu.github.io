@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:   post
 title: "explicit Type Conversion"
 publish: true
 ---
