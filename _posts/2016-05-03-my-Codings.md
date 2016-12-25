@@ -29,7 +29,7 @@ out id ——从小到大输出编号为id的序列中的元素，以空格隔�
 
 #### Sample Input
 
-{% highlight linenos%}
+{% highlight c++ linenos %}
 16
 new 1
 new 2
@@ -51,7 +51,7 @@ out 1
 
 ### Sample OutputI
 
-{% highlight linenos %}
+{% highlight c++ linenos %}
 1 2 3
 1 2 3 4
 1 1 2 2 3 3 4
@@ -63,7 +63,7 @@ out 1
 
 It's just about the basic operation of list and string
 
-{% highlight %}
+{% highlight c++ %}
 front()//return a reference
 back() //return a reference to the last element in the list;
 insert()
