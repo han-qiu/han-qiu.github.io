@@ -5,12 +5,10 @@ permalink: /about/
 published: true
 ---
 
+Master in Information Technology, Mobility, Information Networking Institute, Carnegie Mellon University.
 
-A junior Student in Electronics Engineering and Computer Science Department, Peking University, Beijing, China.
+Bachelor in Electronic and Information Science and Technology, Electronics Engineering and Computer Science Department, Peking University, Beijing, China.
 
-### More Information
-
-Fascinated in Deep Learning, Computer Vision, and Natural Language Processing.
 
 ### Contact me
 
